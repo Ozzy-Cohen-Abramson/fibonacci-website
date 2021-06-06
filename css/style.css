@@ -1,0 +1,50 @@
+.page-wrapper {
+  padding: 60px 100px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.title {
+  font-size: 72px;
+  font-weight: 100;
+  margin-bottom: 40px;
+}
+
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+}
+
+input {
+  width: 150px;
+  height: 35px;
+  margin: 15px;
+}
+
+.calc-input-title {
+  padding-bottom: 10px;
+}
+
+#is-btn {
+  padding: 5px 15px;
+  margin-right: 15px;
+  color: white;
+  background-color: #0275d8;
+  border-radius: 5px;
+  border: none;
+}
+
+#calc-end {
+  width: 28px;
+  height: 24px;
+
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 24px;
+
+  /* identical to box height, or 100% */
+
+  text-decoration-line: underline;
+  padding-bottom: 35px;
+  color: #373a3c;
+}
